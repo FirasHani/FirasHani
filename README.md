@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Firas Hussein</h1>
-<h3 align="center">I am a passionate full-stack developer and computer science student with a strong interest in business and personal growth. I thrive on solving complex problems and continuously improving my skills to create impactful digital solutions. My dedication to both technology and entrepreneurship drives me to innovate and excel in every project I undertake.</h3>
+<h3 align="center">I make stuff</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
